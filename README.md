@@ -33,7 +33,7 @@ To set up and run this project locally, follow these steps:
 
 1.  **Clone the repository (if applicable):**
     ```bash
-    git clone [https://github.com/Sankrityayana/Chat-with-PDF/](https://github.com/Sankrityayana/Chat-with-PDF/)
+    git clone https://github.com/Sankrityayana/Chat-with-PDF
     cd Chat-with-PDF
     ```
 
