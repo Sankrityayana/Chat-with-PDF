@@ -39,7 +39,8 @@ To set up and run this project locally, follow these steps:
 
 2.  **Install the required libraries:**
     ```bash
-    pip install google-generativeai gradio PyPDF2 sentence-transformers scikit-learn numpy
+    pip install gradio PyPDF2 sentence-transformers scikit-learn numpy
+    pip install -q -U google-genai
     ```
 
 3.  **Obtain a Gemini API Key:**
